@@ -2,7 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, clone from the Github repo from your Terminal (ideally VS Code one) inside some folder you decide, like below:
+
+```
+mkdir ~\dev
+cd ~\dev
+git clone https://github.com/altintech/boe-dapp.git
+cd boe-dapp
+```
+
+Run the development server:
 
 ```bash
 npm run dev
