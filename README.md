@@ -11,6 +11,12 @@ git clone https://github.com/altintech/boe-dapp.git
 cd boe-dapp
 ```
 
+You will need to install node modules after cloning because the "node_modules" folder is not checked in Git.
+
+```
+npm install
+```
+
 Run the development server:
 
 ```bash
