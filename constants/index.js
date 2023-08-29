@@ -21,18 +21,18 @@ export const sidebarLinks = [
   },
   {
     imgURL: "/assets/sold.svg",
-    route: "/sold",
-    label: "Sold",
+    route: "/trade",
+    label: "Trade",
   },
   {
     imgURL: "/assets/bought.svg",
-    route: "/bought",
-    label: "Bought",
+    route: "/holdings",
+    label: "Holdings",
   },
   {
     imgURL: "/assets/endorsed.svg",
-    route: "/endorsed",
-    label: "Endorsed",
+    route: "/endorsements",
+    label: "Endorsements",
   },
 ];
 
